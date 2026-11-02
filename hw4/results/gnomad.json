@@ -1,0 +1,352 @@
+{
+ "rs1135638": {
+  "joint": {
+   "ac": 1286437,
+   "an": 1607722,
+   "homozygote_count": 517001
+  }
+ },
+ "rs1057885": {
+  "joint": {
+   "ac": 1288676,
+   "an": 1611208,
+   "homozygote_count": 517463
+  }
+ },
+ "rs7278168": {
+  "joint": {
+   "ac": 37245,
+   "an": 1610920,
+   "homozygote_count": 3041
+  }
+ },
+ "rs7278284": {
+  "joint": {
+   "ac": 39145,
+   "an": 1607108,
+   "homozygote_count": 3440
+  }
+ },
+ "rs75377686": {
+  "joint": {
+   "ac": 2469,
+   "an": 1611900,
+   "homozygote_count": 34
+  }
+ },
+ "rs34373350": {
+  "joint": {
+   "ac": 5160,
+   "an": 1613808,
+   "homozygote_count": 23
+  }
+ },
+ "rs115908228": {
+  "joint": {
+   "ac": 44,
+   "an": 1614140,
+   "homozygote_count": 0
+  }
+ },
+ "rs457705": {
+  "joint": {
+   "ac": 1285857,
+   "an": 1612886,
+   "homozygote_count": 524442
+  }
+ },
+ "rs113417859": {
+  "joint": {
+   "ac": 37,
+   "an": 1614192,
+   "homozygote_count": 0
+  }
+ },
+ "rs461155": {
+  "joint": {
+   "ac": 1285903,
+   "an": 1613232,
+   "homozygote_count": 524385
+  }
+ },
+ "rs116476013": {
+  "joint": {
+   "ac": 697,
+   "an": 1612336,
+   "homozygote_count": 2
+  }
+ },
+ "rs61737060": {
+  "joint": {
+   "ac": 1179,
+   "an": 485008,
+   "homozygote_count": 160
+  }
+ },
+ "rs115397760": {
+  "joint": {
+   "ac": 772,
+   "an": 1613920,
+   "homozygote_count": 5
+  }
+ },
+ "rs115877869": {
+  "joint": {
+   "ac": 23,
+   "an": 1611180,
+   "homozygote_count": 0
+  }
+ },
+ "rs115736959": {
+  "joint": {
+   "ac": 3623,
+   "an": 1495906,
+   "homozygote_count": 82
+  }
+ },
+ "rs76496156": {
+  "joint": {
+   "ac": 1812,
+   "an": 1613360,
+   "homozygote_count": 29
+  }
+ },
+ "rs114932611": {
+  "joint": {
+   "ac": 1,
+   "an": 1608842,
+   "homozygote_count": 0
+  }
+ },
+ "rs2240717": {
+  "joint": {
+   "ac": 592356,
+   "an": 1605462,
+   "homozygote_count": 112110
+  }
+ },
+ "rs115706909": {
+  "joint": {
+   "ac": 243,
+   "an": 1613610,
+   "homozygote_count": 1
+  }
+ },
+ "rs9610729": {
+  "joint": {
+   "ac": 178399,
+   "an": 1613540,
+   "homozygote_count": 10419
+  }
+ },
+ "rs114023206": {
+  "joint": {
+   "ac": 137,
+   "an": 1614154,
+   "homozygote_count": 0
+  }
+ },
+ "rs5759612": {
+  "joint": {
+   "ac": 809278,
+   "an": 1610470,
+   "homozygote_count": 205031
+  }
+ },
+ "rs114362926": {
+  "joint": {
+   "ac": 2412,
+   "an": 1613506,
+   "homozygote_count": 29
+  }
+ },
+ "rs115180746": {
+  "joint": {
+   "ac": 2014,
+   "an": 1613276,
+   "homozygote_count": 18
+  }
+ },
+ "rs8141797": {
+  "joint": {
+   "ac": 113211,
+   "an": 1612152,
+   "homozygote_count": 4729
+  }
+ },
+ "rs115684319": {
+  "joint": {
+   "ac": 3777,
+   "an": 1613428,
+   "homozygote_count": 66
+  }
+ },
+ "rs115131208": {
+  "joint": {
+   "ac": 132,
+   "an": 1613494,
+   "homozygote_count": 0
+  }
+ },
+ "rs116712499": {
+  "joint": {
+   "ac": 115,
+   "an": 1611290,
+   "homozygote_count": 2
+  }
+ },
+ "rs17885497": {
+  "joint": {
+   "ac": 508,
+   "an": 1613990,
+   "homozygote_count": 1
+  }
+ },
+ "rs116796967": {
+  "joint": {
+   "ac": 1312,
+   "an": 1553474,
+   "homozygote_count": 12
+  }
+ },
+ "rs5749104": {
+  "joint": {
+   "ac": 999429,
+   "an": 1613318,
+   "homozygote_count": 317246
+  }
+ },
+ "rs116469787": {
+  "joint": {
+   "ac": 870,
+   "an": 1613990,
+   "homozygote_count": 4
+  }
+ },
+ "rs115083767": {
+  "joint": {
+   "ac": 162,
+   "an": 1613204,
+   "homozygote_count": 0
+  }
+ },
+ "rs114565111": {
+  "joint": {
+   "ac": 438,
+   "an": 1613284,
+   "homozygote_count": 0
+  }
+ },
+ "rs113930388": {
+  "joint": {
+   "ac": 3185,
+   "an": 1602640,
+   "homozygote_count": 66
+  }
+ },
+ "rs116593437": {
+  "joint": {
+   "ac": 949,
+   "an": 1612636,
+   "homozygote_count": 2
+  }
+ },
+ "rs34292278": {
+  "joint": {
+   "ac": 18820,
+   "an": 1566072,
+   "homozygote_count": 1903
+  }
+ },
+ "rs114246562": {
+  "joint": {
+   "ac": 103,
+   "an": 1614162,
+   "homozygote_count": 0
+  }
+ },
+ "rs73399520": {
+  "joint": {
+   "ac": 5205,
+   "an": 1614220,
+   "homozygote_count": 152
+  }
+ },
+ "rs113253213": {
+  "joint": {
+   "ac": 500,
+   "an": 1614282,
+   "homozygote_count": 0
+  }
+ },
+ "rs6001200": {
+  "joint": {
+   "ac": 7811,
+   "an": 1614198,
+   "homozygote_count": 345
+  }
+ },
+ "rs2072800": {
+  "joint": {
+   "ac": 50628,
+   "an": 1594814,
+   "homozygote_count": 2000
+  }
+ },
+ "rs35978693": {
+  "joint": {
+   "ac": 4546,
+   "an": 1614018,
+   "homozygote_count": 111
+  }
+ },
+ "rs17565": {
+  "joint": {
+   "ac": 619,
+   "an": 1613118,
+   "homozygote_count": 2
+  }
+ },
+ "rs114671146": {
+  "joint": {
+   "ac": 708,
+   "an": 1614242,
+   "homozygote_count": 5
+  }
+ },
+ "rs115673469": {
+  "joint": {
+   "ac": 3,
+   "an": 1613900,
+   "homozygote_count": 0
+  }
+ },
+ "rs5995793": {
+  "joint": {
+   "ac": 454908,
+   "an": 1612272,
+   "homozygote_count": 67358
+  }
+ },
+ "rs6519902": {
+  "joint": {
+   "ac": 175690,
+   "an": 1593502,
+   "homozygote_count": 11798
+  }
+ },
+ "rs115694109": {
+  "joint": {
+   "ac": 161,
+   "an": 1591022,
+   "homozygote_count": 0
+  }
+ },
+ "rs35195493": {
+  "joint": {
+   "ac": 1267,
+   "an": 1612698,
+   "homozygote_count": 13
+  }
+ }
+}

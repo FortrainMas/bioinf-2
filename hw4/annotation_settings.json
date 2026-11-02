@@ -1,0 +1,31 @@
+{
+  "assembly": "GRCh38",
+  "date": "2026-11-02",
+  "vep": {
+    "api": "https://rest.ensembl.org/vep/homo_sapiens/region",
+    "ensembl_release": 116,
+    "options": {
+      "canonical": 1,
+      "mane": 1,
+      "hgvs": 1,
+      "SIFT": "b",
+      "PolyPhen": "b",
+      "AlphaMissense": 1,
+      "af_gnomade": 1,
+      "af_gnomadg": 1
+    },
+    "transcript_rule": "самое тяжёлое последствие по всем транскриптам (most_severe_consequence), среди транскриптов с ним: MANE Select > canonical"
+  },
+  "clinvar": {
+    "api": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/ (esearch + esummary, db=clinvar)",
+    "search": "<CHROM>[chr] AND <POS>[chrpos38]",
+    "match": "берётся только запись, у которой canonical_spdi совпадает с POS/REF/ALT",
+    "classification": "germline_classification"
+  },
+  "gnomad": {
+    "api": "https://gnomad.broadinstitute.org/api",
+    "dataset": "gnomad_r4 (v4.1)",
+    "frequency": "joint (exomes + genomes): AF = ac / an, homozygote_count",
+    "also": "частоты exomes и genomes отдельно из ответа VEP (af_gnomade, af_gnomadg)"
+  }
+}
